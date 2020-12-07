@@ -6,11 +6,11 @@
     "email": "kambalavijay@gmail.com",
     "location": "Bengaluru",
     "experience": [
-      { "type": "Full Stack Experience on MERN", "years": "4 years" },
-      { "type": "Total Experience", "years": "6 years" }
+      { "type": "Java experience", "years": "5 years" },
+      { "type": "Total Experience", "years": "5 years" }
     ],
-    "linkedin": "jane-doe-11",
-    "github": "jane_doe_test_85"
+    "linkedin": "vijay-kambala-83278b103",
+    "github": "kambalavijay"
   },
   "summary": {
     "title": "About me",
@@ -18,82 +18,72 @@
   },
   "career": {
     "title": "Career Objective",
-    "description": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help ABC Corp introduce time-saving schemes for all executives."
+    "description": "Eager to expand my skill set and a very enthusiastic learner and quick at adaption. I always want to leverage the skills I acquire from different source of channels in the organisations I work for and simply be part of it's success."
   },
   "companyDetails": {
     "title": "Professional Experience",
     "companyList": [
       {
-        "name": "Dummy Corporation 1",
-        "role": "Senior Software Developer",
-        "years": "Jan 2018 - present",
-        "expYears": "2.5 years",
+        "name": "Pegasystems India pvt ltd",
+        "role": "Software Engineer",
+        "years": "Jan 2018 - Oct 2020",
+        "expYears": "1.10 years",
         "description": [
-          "Use my extensive experience with front end development to <u>define the structure and components</u> for the project, making sure they are reusable",
-          "Keep the code quality high reviewing code from other developers and suggesting improvements",
-          "Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality"
+"Software Engineer at Pegasystems. Currently enhancing the integration capabilities of pega platform and APIs. Being part of Integration Engineering team I am responsible for building features around rest services which is primarily built on servlet infrastructure and also parallely Increasing the code coverage with unit tests(Junit) using mockito framework and integration tests(Junit)."         
         ]
       },
       {
-        "name": "Dummy Corporation 2",
-        "role": "Software Developer",
-        "years": "Jun 2015 - Dec 2017",
-        "expYears": "2.5 years",
+        "name": "IVY Comptech",
+        "role": "Software Engineer",
+        "years": "Apr 2018 - Jan 2019",
+        "expYears": "9 months",
         "description": [
-          "Develop web applications based on Sharepoint, Drupal 8 and Episerver",
-          "Lead a team of <strong>10 front end developers</strong>, giving support to the client's multi-cultural team, providing feedback, clarifying requirements and helping with technical questions",
-          "Keep the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team",
-          "Keep the code and the features implemented by the other developers in accordance to the requirements"
+          "As a backend engineer contributed in building Wallet APIs using spring boot rest services and played a crucial role in building the automation framework for the services with Junits end to end."
         ]
       },
       {
-        "name": "Dummy Corporation 3",
-        "role": "Trainee Developer",
+        "name": "ADP India pvt ltd",
+        "role": "Software Engineer",
         "years": "Aug 2011 - May 2015",
-        "expYears": "1 years",
+        "expYears": "2.5 years",
         "description": [
-          "Design easy user interfaces and great user experiences for the digital platforms of small companies",
-          "Wordpress development, including themes creation or customization, custom plugins development and training",
-          "E-commerce maintenance <i>with Fastcommerce</i>, a Brazilian e-commerce platform",
-          "E-commerce development with Magento, customizing preexisting themes ",
-          "Integrate external services such as payment services, delivery, etc into Magento solutions",
-          "VPS configuration and optimization (Apache & Nginx)"
-        ]
+          "Reduced systems and process redundancy by consolidating the product implementation process of 18 countries and built the standardised process into single global product by marketing it highly configurable 		for the clients."
+	"UK Services for transfer of payrolls from one region to another region. It comprises of the transitions workflow where the instances are created by an Administrator user. It helps the clients to track their 	work easily and also saves lot of time in terms of sending emails."        
+	]
       }
     ]
   },
   "key_projects": {
     "title": "Key Projects / Involvements",
     "description": [
-      "Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.",
-      "Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 20 percent increase in revenue.",
-      "Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability."
+      "Reduced systems and process redundancy by consolidating the product implementation process of 18 countries and built the standardised process into single global product by marketing it highly configurable for the clients.",
+      "Enhanced Rest services to work based on application in the rest service endpoint.",
+      "MVP(Most valuble player) in the Tribe as driven the epic completely by myself right from the design stage along with automation where end end integration tests are added.",
+"Developed an excel reader component and integrated it within IBM BPM as a reusable components thus empowerd the business resuability."
     ]
   },
   "certificates": {
     "title": "Certificates and Awards",
     "description": [
-      "<strong>React</strong> and redux - A complete guide 2020 from Udemy",
-      "Agile and Scrum Master Certificate from Udacity",
-      "Best performer award for consistently exceeding the performance",
-      "Certificate of exceptional bug finder by XYZ client",
-      "Recorgnition zero defect delivery"
+      "MVP(Most valuble player) in Pegasystems for a quarter",
+"Best performer award for consistently exceeding the performance in ADP"
+
     ]
   },
   "skills": {
     "title": "Technical Skills",
     "description": [
-      { "name": "GoLang", "rating": 4 },
-      { "name": "Deno", "rating": 3 },
-      { "name": "React", "rating": 3 },
-      { "name": "JavaScript", "rating": 4 },
-      { "name": "CSS", "rating": 3 },
-      { "name": "HTML5", "rating": 4 }
+      { "name": "JavaSE & J2EE", "rating": 4 },
+      { "name": "IBM BPM & PRPC", "rating": 4 },
+      { "name": "SpringBoot", "rating": 4 },
+      { "name": "Microservices", "rating": 4 },
+      { "name": "RESTful Services", "rating": 4 },
+      { "name": "Junit", "rating": 4 }
     ]
   },
   "expertise": {
     "title": "Areas of Expertise",
-    "description": ["Algorithms", "Data Structures", "Redux", "SQL", "jQuery", "Progressive Web Apps"]
+    "description": ["Algorithms", "Data Structures", "Java8", "SQL & NoSQL", "Problem solving", "OOPS", "Git", "Maven/Gradle"]
   },
   "methodology": {
     "title": "Methodology / Approach",
