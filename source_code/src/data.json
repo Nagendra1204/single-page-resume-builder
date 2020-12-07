@@ -1,9 +1,9 @@
 {
   "personal_details": {
-    "name": "Jane Doe",
-    "role": "Full Stack Developer",
-    "mobile": "+91 9876543210",
-    "email": "janedoe@gmail.com",
+    "name": "Vijay Kambala",
+    "role": "Software Engineer",
+    "mobile": "+91 9676964105",
+    "email": "kambalavijay@gmail.com",
     "location": "Bengaluru",
     "experience": [
       { "type": "Full Stack Experience on MERN", "years": "4 years" },
