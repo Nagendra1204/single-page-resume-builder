@@ -88,7 +88,7 @@
   "methodology": {
     "title": "Methodology / Approach",
     "description": [
-      "Component based architecture", "Agile methodology", "Design Patterns", "Test Driven Development", "Model View Controller",  "RESTful architecture"
+     "Agile methodology", "Design Patterns", "TDD", "Model View Controller",  "Integration Tests"
     ]
   },
   "tools": {
