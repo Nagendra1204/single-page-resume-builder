@@ -29,7 +29,7 @@
         "years": "Jan 2018 - Oct 2020",
         "expYears": "1.10 years",
         "description": [
-"Software Engineer at Pegasystems. Currently enhancing the integration capabilities of pega platform and APIs. Being part of Integration Engineering team I am responsible for building features around rest services which is primarily built on servlet infrastructure and also parallely Increasing the code coverage with unit tests(Junit) using mockito framework and integration tests(Junit)."         
+"Software Engineer at Pegasystems. Currently enhancing the integration capabilities of pega platform and APIs. Being part of Integration Engineering team I am responsible for building features around rest services which is primarily built on servlet infrastructure and also parallely increasing the code coverage with unit tests(Junit) using mockito framework and integration tests(Junit)."         
         ]
       },
       {
@@ -99,11 +99,11 @@
     "title": "Education",
     "description": [
       {
-        "institution": "XIV, University",
-        "years": "2010 - 2014",
-        "grade": "8.3",
+        "institution": "IIIT, RKValley",
+        "years": "2011 - 2019",
+        "grade": "8.0",
         "degree": "B.Tech",
-        "specialization": "Masters in Cloud Technology"
+        "specialization": "Computer Science Engineering"
       }
     ]
   }
