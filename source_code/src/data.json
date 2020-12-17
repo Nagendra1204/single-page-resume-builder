@@ -6,8 +6,8 @@
     "email": "kambalavijay@gmail.com",
     "location": "Hyderabad",
     "experience": [
-      { "type": "Java experience", "years": "5 years" },
-      { "type": "Total Experience", "years": "5 years" }
+      { "type": "Java experience", "years": "5.1 years" },
+      { "type": "Total Experience", "years": "5.1 years" }
     ],
     "linkedin": "vijay-kambala-83278b103",
     "github": "kambalavijay"
@@ -23,6 +23,15 @@
   "companyDetails": {
     "title": "Professional Experience",
     "companyList": [
+{
+        "name": "Amazon(PTG)",
+        "role": "SDE-II",
+        "years": "Nov 2020 - Jan Dec2020",
+        "expYears": "1.5 months",
+        "description": [
+          "Enhanced the most critical business features for Payroll team over Pega BPM platform. Played a crucial role in building the applications using the best practices of Pega platform."
+        ]
+      },
       {
         "name": "Pegasystems India pvt ltd",
         "role": "Software Engineer",
@@ -83,24 +92,24 @@
   },
   "expertise": {
     "title": "Areas of Expertise",
-    "description": ["Algorithms", "Data Structures", "Java8", "SQL & NoSQL", "Problem solving", "OOPS", "Git", "Maven/Gradle"]
+    "description": ["Algorithms", "Data Structures", "Java8", "SQL & NoSQL", "Problem solving", "OOPS", "Cucmber", "Maven/Gradle"]
   },
   "methodology": {
     "title": "Methodology / Approach",
     "description": [
-     "Agile methodology", "Design Patterns", "TDD", "Model View Controller",  "Integration Tests"
+     "Agile methodology", "Design Patterns", "TDD", "Model View Controller",  "Integration Tests", "BDD"
     ]
   },
   "tools": {
     "title": "Tools",
-    "description": ["Git", "VS Code", "Jira", "Webpack", "Eclipse"]
+    "description": ["Intellij IDEA", "Git", "VS Code", "Jira", "Webpack", "Eclipse", "Fiddler"]
   },
   "education": {
     "title": "Education",
     "description": [
       {
         "institution": "IIIT, RKValley",
-        "years": "2011 - 2019",
+        "years": "2011 - 2015",
         "grade": "8.0",
         "degree": "B.Tech",
         "specialization": "Computer Science Engineering"
